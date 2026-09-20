@@ -1,3 +1,5 @@
+This project’s code is licensed under the MIT License. Written and explanatory materials are licensed under CC BY 4.0 unless otherwise noted.
+
 Φ = [H, C] ─ The Unified Commutator Theorem of Emergent Systems
 
 1. The Axiom of Non-Commutativity
@@ -32,33 +34,3 @@ When we substitute this back into the primary equation, the macro-cosmic state r
 \[\Phi =[H,[H^{\prime },[H^{\prime \prime },C^{\prime \prime }]]]\]
 The rule at the top dictates the boundary at the bottom. The spark at the centre of a atom echoes the rhythm of a synchronised network, which echoes the layout of an algorithmic universe. It can be applied and viewed from every direction.
 
-
-
-
-
-## License
-
-This project is dual-licensed as follows:
-
-- The source code in this repository is licensed under the MIT License.
-- The written materials, documentation, and explanatory text are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-
-For the MIT License, see the [LICENSE](LICENSE) file.
-
-For the CC BY 4.0 license text, see:
-https://creativecommons.org/licenses/by/4.0/
-
-### MIT License summary
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-### CC BY 4.0 summary
-This work may be shared and adapted for any purpose, provided appropriate
-credit is given to the original author.
